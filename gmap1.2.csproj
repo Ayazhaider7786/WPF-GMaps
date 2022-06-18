@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>gmap1._2</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GMap.NET.Core" Version="2.0.1" />
+    <PackageReference Include="GMap.NET.Windows" Version="2.0.1" />
+    <PackageReference Include="GMap.NET.WinPresentation" Version="2.0.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "PL6/WMvFk9UNiZ1jMKnazcnsd56WhrJobYgfwyS3lxruBvx82xpTmgVCAfVjfR1rS5G+A1xhrWkAIm1FeXwRLQ==",
+  "success": true,
+  "projectFilePath": "E:\\Ayaz all programs\\Gmap\\gmap1.2\\gmap1.2\\gmap1.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Computer\\.nuget\\packages\\gmap.net.core\\2.0.1\\gmap.net.core.2.0.1.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\gmap.net.windows\\2.0.1\\gmap.net.windows.2.0.1.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\gmap.net.winforms\\2.0.1\\gmap.net.winforms.2.0.1.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\gmap.net.winpresentation\\2.0.1\\gmap.net.winpresentation.2.0.1.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\microsoft.win32.registry\\4.6.0\\microsoft.win32.registry.4.6.0.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.6.0\\runtime.native.system.data.sqlclient.sni.4.6.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\system.data.sqlclient\\4.7.0\\system.data.sqlclient.4.7.0.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\system.data.sqlite\\1.0.112\\system.data.sqlite.1.0.112.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\system.data.sqlite.core\\1.0.112\\system.data.sqlite.core.1.0.112.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\system.security.accesscontrol\\4.6.0\\system.security.accesscontrol.4.6.0.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\system.security.principal.windows\\4.6.0\\system.security.principal.windows.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

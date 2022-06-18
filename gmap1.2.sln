@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gmap1.2", "gmap1.2.csproj", "{20B4C4E9-C1BA-4739-A32B-F8AE0C715CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B4C4E9-C1BA-4739-A32B-F8AE0C715CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B4C4E9-C1BA-4739-A32B-F8AE0C715CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B4C4E9-C1BA-4739-A32B-F8AE0C715CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B4C4E9-C1BA-4739-A32B-F8AE0C715CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {891E4DE7-7E81-4CC4-B4B9-5E621EFB3259}
+	EndGlobalSection
+EndGlobal
